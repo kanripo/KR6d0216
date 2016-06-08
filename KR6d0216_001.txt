@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:46.621471
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:44
 #+TITLE: 始終心要注
 #+PROPERTY: CBETA_ID X56n0938
 #+PROPERTY: ID KR6d0216
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 56, No. 938
 #+PROPERTY: VOL 56
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0216_X_001-0598a> 
 #+PROPERTY: JUAN 1
-No.938¶
-
- 始終心要注¶
+No. 938¶
+始終心要注¶
 荊溪大師　湛然　述¶
 永嘉沙門　從義　注¶
 
@@ -21,7 +20,7 @@ No.938¶
 「夫三諦者。天然之性德也。」¶
 
 【上句標指。下句發歎。天然者如天之然。亦名自然。¶
-問。此與外道所計何別。答。外道所執已為三藏所¶
+問。此與外道所計何別。答。外道所執巳為三藏所¶
 破。那忽謂同圓頓諦理。復次。應知若從破計。須蕩¶
 自然。破計雖爾。理必自然。是則自行。乃遣執惰。隨¶
 緣無妨作斯說也。至於下文。含生本具。祕藏不顯。¶
